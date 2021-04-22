@@ -1,3 +1,8 @@
+### About
+
+This is Food Recipe application builded using ReactJs and Food API "edamam". 
+Using this One can search recipes of their own choice and make their own food.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -31,5 +36,5 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `Some project Screenshots`
 
-![food1](https://user-images.githubusercontent.com/40181680/115662826-2e5c0280-a35d-11eb-9956-8c95e345754f.PNG)
+![food2](https://user-images.githubusercontent.com/40181680/115663006-6e22ea00-a35d-11eb-89c4-772d373437ff.PNG)
 
